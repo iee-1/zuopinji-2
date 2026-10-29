@@ -1,0 +1,5 @@
+# 本地辅助与备份，无需部署
+.screenshots/
+.trae-html-share-packages/
+_backup/
+_tools/
