@@ -343,7 +343,7 @@ window.WORKS = [
     cat: "motion",
     title: "视频剪辑作品",
     en: "VIDEO EDITING",
-    sub: "片头 · 燃剪 · Vlog · AI 短片 · 10 支成片",
+    sub: "片头 · 燃剪 · Vlog · AI 短片 · 9 支成片",
     cover: "assets/img/works/11-edit.png",
     format: "normal",
     year: "2025",
@@ -357,8 +357,7 @@ window.WORKS = [
       "assets/video/11-edit-5.mp4",
       "assets/video/11-edit-2.mp4",
       "assets/video/11-edit-3.mp4",
-      "assets/video/11-edit-4.mp4",
-      "assets/video/11-edit-8.mp4"
+      "assets/video/11-edit-4.mp4"
     ],
     detailCap: [
       "电视剧片头 · 雪原概念",
@@ -369,8 +368,7 @@ window.WORKS = [
       "Vlog · 城市随拍",
       "AI 宣传片 · 产品特写",
       "AI 宣传片 · 场景演绎",
-      "AI 宣传片 · 品牌概念",
-      "剪辑练习 · 转场调色"
+      "AI 宣传片 · 品牌概念"
     ],
     thumbs: [
       "assets/img/works/detail/11-thumb-7.jpg",
@@ -381,17 +379,16 @@ window.WORKS = [
       "assets/img/works/detail/11-thumb-5.jpg",
       "assets/img/works/detail/11-thumb-2.jpg",
       "assets/img/works/detail/11-thumb-3.jpg",
-      "assets/img/works/detail/11-thumb-4.jpg",
-      "assets/img/works/detail/11-thumb-8.jpg"
+      "assets/img/works/detail/11-thumb-4.jpg"
     ],
     desc:
       "把素材剪成有节奏的叙事：选片、套底、卡点、转场、调色，一路到成片。" +
-      "十支片子覆盖不同路数——电视剧概念片头的氛围、动漫燃剪的鼓点、" +
+      "九支片子覆盖不同路数——电视剧概念片头的氛围、动漫燃剪的鼓点、" +
       "AI 生成素材的二次剪辑、Vlog 的日常呼吸感。剪得多了会形成手感：" +
       "什么时候该停、什么时候该推，和做版式的取舍是同一件事。",
     role: "选片 · 剪辑 · 卡点 · 调色",
     tools: "Premiere · After Effects · DaVinci",
-    output: "成片 10 支",
+    output: "成片 9 支",
     tags: ["剪辑节奏", "卡点", "转场", "调色", "片头"]
   }
 ];
